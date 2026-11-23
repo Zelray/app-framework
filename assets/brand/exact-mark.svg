@@ -1,14 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 246" role="img" aria-labelledby="title description">
-  <title id="title">Exact mark</title>
-  <desc id="description">A rectangle split into a large panel on the left and a column on the right that is divided again into smaller panels.</desc>
-  <g
-    fill="none"
-    stroke="#737373"
-    stroke-width="16"
-    stroke-linecap="square"
-    stroke-linejoin="miter"
-  >
-    <rect x="8" y="8" width="404" height="230" />
-    <path d="M256.5 8V238M256.5 97.5H412M319.5 8V97.5M256.5 58.5H319.5M295.5 58.5V97.5" />
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" aria-labelledby="title description" role="img" viewBox="0 0 420 246"><title id="title">Exact mark</title><desc id="description">A rectangle split into a large panel on the left and a column on the right that is divided again into smaller panels.</desc><g fill="none" stroke="#737373" stroke-linecap="square" stroke-linejoin="miter" stroke-width="16"><rect width="404" height="230" x="8" y="8"/><path d="M256.5 8V238M256.5 97.5H412M319.5 8V97.5M256.5 58.5H319.5M295.5 58.5V97.5"/></g></svg>
